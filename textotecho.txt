@@ -1,2 +1,2 @@
-<color=red>Feliz Cumpleaños</color>
-<size=100>VENADO PARLANTE</b>
+<color=red>XTASIS</color>
+<size=100>HORROR</b>
