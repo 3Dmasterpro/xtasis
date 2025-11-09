@@ -1,2 +1,2 @@
-<color=red>XTASIS</color>
-<size=100>HORROR</b>
+<color=red>BIENVENIDOMS AL</color>
+<size=100>XTASIS</b>
